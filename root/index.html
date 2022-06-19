@@ -2,10 +2,14 @@
   <head>
     <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
     <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <py-env>
+      - colorama
+    </py-env>
   </head>
   <body>
     <py-script>
-      print("\033[31mCS: https://mcplayeraz.github.io\033[0m")
+      import colorama
+      print(colorama.Fore.RED, "CSCS")
     </py-script>
   </body>
 </html>
