@@ -4,3 +4,7 @@ This is mcplayeraz's own page.
 Username: *mcplayeraz*
 
 Github Url: [Click to Visit](https://github.com/mcplayeraz/)
+
+Web List:
+	[Snake](/snake)
+	[Eat Kun](/EatKun)
